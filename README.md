@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sean Ruffolo
-- 👀 I’m interested in decentralized apps, machine learning, physical products, defi, desktop apps
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on dApps with Substrate 
-- 📫 How to reach me - find me on linkedIn! 
+- 👀 I’m interested in decentralized apps, machine learning, product management, physical product launches, defi, and desktop apps
+- 🌱 I’m currently learning Rust, Substrate, Fusion360
+- 📫 How to reach me - find me on linkedIn (personal # listed there)
+
+
 
 <!---
 folofur/folofur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
